@@ -1,2 +1,2 @@
 # Simple-Regression
-predict dody mass from brain weight
+Predict body mass from brain weight.
